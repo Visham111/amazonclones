@@ -49,3 +49,4 @@ const Right = ({ iteam }) => {
 }
 
 export default Right;
+
