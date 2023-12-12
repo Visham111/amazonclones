@@ -1,33 +1,34 @@
-# Amazon_Clone_Harshit_Singla
+# Amazon_Clone_Visham_Sangral
 
-**Amazon Clone by Harshit Singla**
+**Amazon Clone by Visham Sangral**
 
-*Overview*
-This Amazon Clone project is a result of my dedication and learning in the web development course. As an aspiring developer, I aimed to recreate the essential features of the Amazon website to showcase my skills in full stack web development.
+**Overview**
+My commitment to the web development course and my acquired knowledge resulted in this Amazon Clone project. As a growing developer, I set out to replicate the key features of the Amazon website in order to demonstrate my skills with full stack web development.
 
-*Features*
-User Authentication: Secure user authentication system allowing users to create accounts, log in, and log out.
-Product Listings: Comprehensive display of products with images, descriptions, and pricing.
-Shopping Cart: Users can add products to their cart, view the cart, and proceed to checkout.
-Real-time Updates: Integration of real-time updates for product availability and pricing.
-Payment Integration: Seamless payment processing using secure payment gateways.
-Order History: Record of user's order history for future reference.
-Responsive Design: Ensures a smooth and visually appealing experience across various devices.
+**Features**
+User authentication: Users can create accounts, log in, and log out using a secure user authentication system.
+Product Listings: Detailed presentation of products complete with pictures, details, and costs.
+Shopping Cart: Customers can view their cart, add items to it, and check out.
+Real-time Updates: Incorporating current information about product availability and costs.
+Payment Integration: Using safe payment gateways, payments are processed quickly and easily.
+Order History: A history of the user's orders kept for future use.
+Ensures a fluid and aesthetically pleasing experience on a range of devices with responsive design.
 
-*Technologies Used*
+
+**Technologies Used**
 Frontend: HTML, CSS, React.js
 Backend: Node.js, Express.js
 Database: MongoDB
 Authentication: Firebase Authentication
 Payment Processing: Stripe API
 
-*Installation*
-Clone the repository: git clone [https://github.com/Bada-Don/Amazon_Clone_Harshit_Singla]
+**Installation**
+Clone the repository: git clone ( https://github.com/Visham111/amazon-clone )
 Navigate to the project folder: cd amazon-clone
 Install dependencies: npm install
 Run the application: npm start
 
-*How to Use*
+**How to Use**
 Create an account or log in.
 Explore products and add them to your cart.
 Proceed to checkout and complete the payment.
