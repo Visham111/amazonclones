@@ -71,3 +71,5 @@ const Slide = ({ title, products }) => {
 
 export default Slide
 
+
+
